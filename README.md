@@ -29,6 +29,3 @@ Considered incorporating mood tracking and other relevant features.
 Created a model to predict the risk of diabetes based on factors such as blood sugar levels, BMI, family history, etc.
 Machine learning algorithms like KNN,decision trees are applied to predict diabetes onset.
 
-#Colab File:https://colab.research.google.com/drive/1sy-KkE0v1eOn1IdlQfiZJJpvBT70BkWm?usp=sharing
-
-   
