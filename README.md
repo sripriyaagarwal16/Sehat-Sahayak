@@ -8,8 +8,9 @@ This project focuses on the having an integrated platform for different diseases
 Developed a machine learning model that analyzes brain scans (MRI or CT scans) to predict the likelihood of a brain tumor.
 Utilized image processing and deep learning techniques to identify patterns and anomalies indicative of brain tumors.For this I have used CNN to classify the images into brain tumor and non brain tumor characteristics.
 
-## Machine learning model used:
-Accuracy:
+## Machine learning model used:CNN 
+## Accuracy:79% 
+![CONFUSION MATRIX]()
 
 # 2. Chest X-ray Analysis:
 Implemented a model for analyzing chest X-rays to detect respiratory conditions, such as pneumonia or tuberculosis.
