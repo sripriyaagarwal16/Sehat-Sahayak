@@ -5,6 +5,16 @@ This project focuses on the having an integrated platform for different diseases
 To visit the website please click below:
 https://sehatsahayak.netlify.app/
 
+## Tech Stack:
+1.)Tensorflow
+2.)Machine Learning : CNN,KNN,Random Forest Classifiers
+3.)Flask
+4.)Streamlit and Gemini API 
+5.)Youtube API
+6>)Front End Development: Html,CSS,JS,ReactJs
+
+
+
 # 1. Brain Tumour Prediction:
 Developed a machine learning model that analyzes brain scans (MRI or CT scans) to predict the likelihood of a brain tumor.
 Utilized image processing and deep learning techniques to identify patterns and anomalies indicative of brain tumors.For this I have used CNN to classify the images into brain tumor and non brain tumor characteristics.
