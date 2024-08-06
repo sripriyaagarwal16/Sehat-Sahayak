@@ -5,13 +5,13 @@ This project focuses on the having an integrated platform for different diseases
 To visit the website please click below:
 https://sehatsahayak.netlify.app/
 
-## Tech Stack:
-1.)Tensorflow
-2.)Machine Learning : CNN,KNN,Random Forest Classifiers
-3.)Flask
-4.)Streamlit and Gemini API 
-5.)Youtube API
-6>)Front End Development: Html,CSS,JS,ReactJs
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript,ReactJs.
+- **Tensorflow**:Used for classifiying images.
+- **Machine Learning**: CNN,KNN,Random Forest Classifiers.
+- **APIs and Tools**: Gemini API, YouTube API.
+- **Flask**: Used for implementing the machine learning models.
+- **Streamlit**: Used to develop AI chat bot.
 
 
 
