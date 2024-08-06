@@ -34,8 +34,8 @@ Machine learning algorithms, such as logistic regression or decision trees, are 
 # 4. Healthy and Non-Healthy Food:
 Created a nutrition system that helps users make informed decisions about their diet.It is a fitness model which consist of diet plan and exercise plan.The user can take benefit of it to maintain their fitness.
 
-Machine learning model used:
-Accuracy:
+![Confusion Matrix](Prototype/5.png)
+
 
 # 5. Diabetes Prediction:
 Created a model to predict the risk of diabetes based on factors such as blood sugar levels, BMI, family history, etc.
@@ -47,9 +47,12 @@ Machine learning algorithms like KNN,decision trees are applied to predict diabe
 # 6. AI CHAT BOT: 
 An Ai chat bot it integrated with the website which will guide the users with different diseases and give them best advices.This chat bot is made using streamlit and Gemini API.
 
+![Confusion Matrix](Prototype/6.png)
 
 # 7. Hospital and doctor facitlites:
 Provided the users with hospitals and doctors facilities according to the location and disease.
+
+![Confusion Matrix](Prototype/7.png)
 
 
 
