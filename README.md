@@ -3,7 +3,7 @@
 This project focuses on the having an integrated platform for different diseases prediction like brain tumour,chest-Xray, Heart Diseases, Healthy and non healthy food,Mental health fitness,Diabetes prediction.
 
 To visit the website please click below:
-![Sehat Sahayak ](https://sehatsahayak.netlify.app/)
+!(https://sehatsahayak.netlify.app/)
 
 # 1. Brain Tumour Prediction:
 Developed a machine learning model that analyzes brain scans (MRI or CT scans) to predict the likelihood of a brain tumor.
