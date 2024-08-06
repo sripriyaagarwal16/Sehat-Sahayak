@@ -10,14 +10,15 @@ Utilized image processing and deep learning techniques to identify patterns and 
 
 ## Machine learning model used:CNN 
 ## Accuracy:79% 
-![CONFUSION MATRIX]()
+![CONFUSION MATRIX](Prototype/2.png)
 
 # 2. Chest X-ray Analysis:
 Implemented a model for analyzing chest X-rays to detect respiratory conditions, such as pneumonia or tuberculosis.
 Utilized convolutional neural networks (CNNs) or other image recognition techniques to identify abnormalities in chest X-ray images.
 
-Machine learning model used:
-Accuracy:
+## Machine learning model used:CNN 
+## Accuracy: 62%
+![CONFUSION MATRIX](Prototype/3.png)
 
 
 # 3. Heart Disease Prediction:
@@ -25,8 +26,9 @@ Developed a predictive model for assessing the risk of heart diseases.
 Consider factors like blood pressure, cholesterol levels, age, and other relevant health indicators.
 Machine learning algorithms, such as logistic regression or decision trees, are employed for this prediction.
 
-Machine learning model used:
-Accuracy:
+## Machine learning model used:
+## Accuracy: 75%
+![Confusion Matrix](Prototype/4.png)
 
 # 4. Healthy and Non-Healthy Food:
 Created a nutrition system that helps users make informed decisions about their diet.It is a fitness model which consist of diet plan and exercise plan.The user can take benefit of it to maintain their fitness.
