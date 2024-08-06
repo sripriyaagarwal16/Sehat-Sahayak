@@ -1,5 +1,6 @@
-# Integrated-Platform-for-health-prediction
+# Sehat Sahayak
 This project focuses on the having an integrated platform for different diseases prediction like brain tumour,chest-Xray, Heart Diseases, Healthy and non healthy food,Mental health fitness,Diabetes prediction.
+
 
 
 1. Brain Tumour Prediction:
