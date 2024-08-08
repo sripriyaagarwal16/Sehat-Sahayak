@@ -55,7 +55,7 @@ Machine learning algorithms like KNN,decision trees are applied to predict diabe
 ## Accuracy: 92%
 
 # 6. AI CHAT BOT: 
-An Ai chat bot it integrated with the website which will guide the users with different diseases and give them best advices.This chat bot is made using streamlit and Gemini API.
+An Ai chat bot is integrated with the website which will guide the users with different diseases and give them best advices.This chat bot is made using streamlit and Gemini API.
 
 ![Confusion Matrix](Prototype/6.png)
 
